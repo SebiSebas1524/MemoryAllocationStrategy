@@ -1,0 +1,11 @@
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\BenchmarkRunner.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Debug\BenchmarkRunner.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\BuddyAllocator.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Debug\BuddyAllocator.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\BuddyDemo.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Debug\BuddyDemo.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\GameDemo.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Debug\GameDemo.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\LinearAllocator.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Debug\LinearAllocator.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\LinearDemo.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Debug\LinearDemo.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\MemoryAllocationStrategy.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Debug\MemoryAllocationStrategy.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\PoolAllocator.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Debug\PoolAllocator.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\PoolDemo.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Debug\PoolDemo.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\StackAllocator.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Debug\StackAllocator.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\StackDemo.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Debug\StackDemo.obj

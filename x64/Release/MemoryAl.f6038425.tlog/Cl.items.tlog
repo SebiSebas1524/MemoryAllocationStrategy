@@ -1,0 +1,11 @@
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\BenchmarkRunner.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Release\BenchmarkRunner.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\BuddyAllocator.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Release\BuddyAllocator.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\BuddyDemo.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Release\BuddyDemo.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\GameDemo.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Release\GameDemo.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\LinearAllocator.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Release\LinearAllocator.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\LinearDemo.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Release\LinearDemo.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\MemoryAllocationStrategy.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Release\MemoryAllocationStrategy.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\PoolAllocator.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Release\PoolAllocator.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\PoolDemo.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Release\PoolDemo.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\StackAllocator.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Release\StackAllocator.obj
+C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\StackDemo.cpp;C:\Users\sebas\Git\MemoryAllocationStrategy\MemoryAllocationStrategy\x64\Release\StackDemo.obj
